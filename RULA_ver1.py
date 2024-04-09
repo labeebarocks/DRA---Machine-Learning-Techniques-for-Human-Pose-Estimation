@@ -1,10 +1,7 @@
 import cv2
 import mediapipe as mp
 from typing import List
-import math
 import numpy as np
-import time
-import threading
 import RULA_tables 
 import sys
 from mediapipe.framework.formats import landmark_pb2
